@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ostats/v14
+src/ostats/.vs/ostats/v14
+src/ostats/bin
+src/ostats/obj
+src/ostatscmd/bin
+src/ostatscmd/obj
